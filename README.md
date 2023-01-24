@@ -3,7 +3,7 @@
  
 
 - 👩‍💻 Estudante de Programação
-- 🍀 A evolução do homem passa, necessariamente, pela busca do conhecimento. - Sun Tzu
+- 💡 A evolução do homem passa, necessariamente, pela busca do conhecimento. - Sun Tzu
 - [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suzannejorge/)
 
 ### Tecnologia que uso no meu dia 
