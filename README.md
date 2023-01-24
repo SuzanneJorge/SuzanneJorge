@@ -1,4 +1,4 @@
-## Olá! Eu sou a Suzanne Jorge 👊
+## Olá! Eu sou a Suzanne Jorge  👊
 #### Destemida o suficiente para entrar no mundo da programação e fazer com que seja o meu mais novo hobby 😊
  
 
